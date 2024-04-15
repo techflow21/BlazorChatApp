@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SocialChat.Server.props" />
+</Project>
